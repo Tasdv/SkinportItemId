@@ -1515,3 +1515,31 @@ Nomad Knife | Vanilla;1514
 Stiletto Knife | Vanilla;1515
 Talon Knife | Vanilla;1516
 Skeleton Knife | Vanilla;1517
+AK-47 | Nightwish;40764
+PP-Bizon | Space Cat;40914
+Dual Berettas | Melondrama;41010
+FAMAS | Rapid Eye Movement;41052
+M4A1-S | Night Terror;41764
+MP5-SD | Necro Jr.;41858
+Sawed-Off | Spirit Board;42102
+Galil AR | Destroyer;49534
+Glock-18 | Winterized;49590
+M249 | Downtown;50096
+M4A4 | Poly Mag;50122
+MAC-10 | Monkeyflage;50202
+Negev | Drop Me;50340
+P250 | Visions;50416
+P90 | Vent Rush;50458
+Sawed-Off | Kiss♥Love;50508
+AK-47 | Head Shot;55948
+AWP | Doodle Lore;56022
+Glock-18 | Umbral Rabbit;56370
+M4A1-S | Emphorosaur-S;56948
+MAG-7 | Insomnia;57026
+MP5-SD | Liquidation;57050
+MP9 | Featherweight;57116
+P250 | Re.built;57204
+P90 | Neoqueen;57252
+SCAR-20 | Fragments;57336
+SG 553 | Cyberforce;57360
+AWP | Duality;57752
